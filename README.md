@@ -14,7 +14,7 @@ Bill Splitter is an iOS app that helps you easily split a bill among multiple pe
 
     ```bash
     git clone https://github.com/austinbond11/BillSplitter.git
-    cd bill-splitter
+    cd BillSplitter
     ```
 
 2. Open the project in Xcode:
